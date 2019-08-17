@@ -29,10 +29,15 @@ This could will cover the fundamental ideas behind sparse signal and image model
 ### Course Requirements and Grading
 
 The course will be organized in weekly lectures, and students are expected to actively participate in them. Grading will be assigned according to:
-a) Final exam (30%)
-b) Project (70%)
 
-The final written exam is intended to be relatively short and serve as a fast check for the concepts covered in the lectures. 
+a) **Final exam** (30%), intended to serve as a fast check for contents presented in class.
+
+b) **Course Project** (70%), to be carried out preferably in pairs, based on recently published papers. A list of candidate papers to choose from is given here, and instructions on how to proceed are shared with you as well. Evaluation of the project will be based on a final report (10-20 pages) summarizing some of these papers (others can be accommodated upon request), their contributions, and your own findings (open questions, simulation results, extensions, etc), as well as a short presentation to the class.
+
 
 ### References
+
+* Sparse and Redundant Representations: From Theory to Applications in Signal and Image Processing, by M. Elad
+* Statistical Learning with Sparsity: The Lasso and Generalizations by T. Hastie et al.
+* Recent papers
 
