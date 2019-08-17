@@ -11,20 +11,20 @@ Sparse and redundant representations constitutes a fascinating area of research 
 ### Content and Syllabus
 This could will cover the fundamental ideas behind sparse signal and image modeling, as well as key ideas of sparse priors in machine learning, and their applications. The (tentative) roadmap is the following:
 
-1. Intro to course and underdetermined linear systems of equations
-2. Uniqueness and Stability
-3. Greedy Algorithms and their analysis
-4. Basis Pursuit - success guarantees and stability. Analysis and convergence of ISTA
-5. Intro to statistical learning, sparse linear and logistic regression, variable selection
-6. Lasso generalizations, matrix and spectral sparsity and applications
-7. Dictionary Learning - MOD, K-SVD, Online Dictionarly Learning, Double Sparsity
-8. Computer Vision Applications: image denoising, inpaing, compression, MCA
-9. Convolutional sparsity and dictionary learning, and their application
-10. MultiLayer sparsity based deep learning
-11. Project work
-12. Project work
-13. Project Presentation
-14. Project Presentation
+1. Intro to course and underdetermined linear systems of equations.
+2. Uniqueness and Stability.
+3. Greedy algorithms and their analysis.
+4. Basis Pursuit - success guarantees and stability. Analysis and convergence of ISTA.
+5. Intro to statistical learning, sparse linear and logistic regression, variable selection.
+6. Lasso generalizations, matrix and spectral sparsity and applications.
+7. Dictionary Learning - MOD, K-SVD, Online Dictionarly Learning, Double Sparsity.
+8. Computer Vision Applications: image denoising, inpaing, compression, MCA.
+9. Convolutional sparsity and dictionary learning, and their application.
+10. MultiLayer sparsity based deep learning.
+11. Project work.
+12. Project work.
+13. Project Presentations.
+14. Project Presentation.
 
 ### Course Requirements and Grading
 
