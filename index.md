@@ -17,9 +17,9 @@ This could will cover the fundamental ideas behind sparse signal and image model
 4. Basis Pursuit - success guarantees and stability. Analysis and convergence of ISTA.
 5. Intro to statistical learning, sparse linear and logistic regression, variable selection.
 6. Lasso generalizations, matrix and spectral sparsity and applications.
-7. Dictionary Learning - MOD, K-SVD, Online Dictionarly Learning, Double Sparsity.
+7. Dictionary Learning - Early motivations, MOD, K-SVD, Online Dictionarly Learning, Double Sparsity.
 8. Computer Vision Applications: image denoising, inpaing, compression, MCA, Task Driven Dictionary Learning.
-9. Convolutional sparsity and dictionary learning, and their application.
+9. Convolutional sparse coding and dictionary learning, and their application.
 10. MultiLayer sparsity based deep learning.
 11. Project work.
 12. Project work.
