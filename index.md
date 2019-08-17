@@ -11,7 +11,7 @@ Sparse and redundant representations constitutes a fascinating area of research 
 ### Content and Syllabus
 This could will cover the fundamental ideas behind sparse signal and image modeling, as well as key ideas of sparse priors in machine learning, and their applications. The (tentative) roadmap is the following:
 
-1. Intro to course and underdetermined linear systems of equations.
+1. Course introduction. Intro to underdetermined linear systems of equations and sparsity.
 2. Uniqueness and Stability.
 3. Greedy algorithms and their analysis.
 4. Basis Pursuit - success guarantees and stability. Analysis and convergence of ISTA.
