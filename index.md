@@ -32,7 +32,7 @@ The course will be organized in weekly lectures, and students are expected to ac
 
 a) **Final exam** (30%), intended to serve as a fast check for contents presented in class.
 
-b) **Course Project** (70%), to be carried out preferably in pairs, based on recently published papers. A list of candidate papers to choose from is given here <a href="project_papers.md">Page 2</a>, and instructions on how to proceed are shared with you as well. Evaluation of the project will be based on a final report (10-20 pages) summarizing some of these papers (others can be accommodated upon request), their contributions, and your own findings (open questions, simulation results, extensions, etc), as well as a short presentation to the class.
+b) **Course Project** (70%), to be carried out preferably in pairs, based on recently published papers. A list of candidate papers to choose from is given <a href="https://github.com/jsulam-jhu/EN.580.709/blob/master/project_papers.md">here</a>, and instructions on how to proceed are shared with you as well. Evaluation of the project will be based on a final report (10-20 pages) summarizing some of these papers (others can be accommodated upon request), their contributions, and your own findings (open questions, simulation results, extensions, etc), as well as a short presentation to the class.
 
 
 ### References
