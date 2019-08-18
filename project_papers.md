@@ -31,3 +31,4 @@
 * Barber, Rina Foygel, and Emmanuel J. Candès. "Controlling the false discovery rate via knockoffs." The Annals of Statistics 43.5 (2015): 2055-2085.
 * Candes, E. J., Eldar, Y. C., Strohmer, T., & Voroninski, V. (2015). Phase retrieval via matrix completion. SIAM review, 57(2), 225-251.
 * Gribonval, Rémi, et al. "Sample complexity of dictionary learning and other matrix factorizations." IEEE Transactions on Information Theory 61.6 (2015): 3469-3486.
+* Foygel Barber, Rina, et al. "Predictive inference with the jackknife+." arXiv preprint arXiv:1905.02928 (2019).
