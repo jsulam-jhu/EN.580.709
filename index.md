@@ -20,7 +20,7 @@ This could will cover the fundamental ideas behind sparse signal and image model
 7. Dictionary Learning - Early motivations, MOD, K-SVD, Online Dictionarly Learning, Double Sparsity.
 8. Computer Vision Applications: image denoising, inpaing, compression, MCA, Task Driven Dictionary Learning.
 9. Convolutional sparse coding and dictionary learning, and their application.
-10. MultiLayer sparsity based deep learning.
+10. MultiLayer sparsity based deep learning, theoretical guarantees and applications.
 11. Project work.
 12. Project work.
 13. Project Presentations.
