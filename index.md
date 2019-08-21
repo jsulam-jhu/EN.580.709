@@ -22,7 +22,7 @@ This could will cover the fundamental ideas behind sparse signal and image model
 9. Convolutional sparse coding and dictionary learning, and their application.
 10. MultiLayer sparsity based deep learning, theoretical guarantees and applications.
 11. Project work.
-12. Project work.
+12. Guest Lecture.
 13. Project Presentations.
 14. Project Presentation.
 
