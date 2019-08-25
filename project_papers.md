@@ -33,3 +33,4 @@
 * Gribonval, Rémi, et al. "Sample complexity of dictionary learning and other matrix factorizations." IEEE Transactions on Information Theory 61.6 (2015): 3469-3486.
 * Foygel Barber, Rina, et al. "Predictive inference with the jackknife+." arXiv preprint arXiv:1905.02928 (2019).
 * Ba, Demba. "Deeply-Sparse Signal rePresentations." arXiv preprint arXiv:1807.01958 (2018).
+* Bora, Ashish, et al. "Compressed sensing using generative models." Proceedings of the 34th International Conference on Machine Learning-Volume 70. JMLR. org, 2017.
