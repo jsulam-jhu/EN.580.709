@@ -9,7 +9,7 @@ Sparse and redundant representations constitutes a fascinating area of research 
 
 
 ### Content and Syllabus
-This could will cover the fundamental ideas behind sparse signal and image modeling, as well as key ideas of sparse priors in machine learning, and their applications. The (tentative) roadmap is the following:
+This course will cover the fundamental ideas behind sparse signal and image modeling, as well as key ideas of sparse priors in machine learning, and their applications. The (tentative) roadmap is the following:
 
 1. Course introduction. Intro to underdetermined linear systems of equations, sparsity and math warm-up.
 2. Uniqueness and Stability.
@@ -24,7 +24,7 @@ This could will cover the fundamental ideas behind sparse signal and image model
 11. Project work.
 12. Guest Lecture.
 13. Project Presentations.
-14. Project Presentation.
+14. Project Presentations.
 
 ### Course Requirements and Grading
 
