@@ -39,5 +39,6 @@ b) **Course Project** (70%), to be carried out preferably in pairs, based on rec
 
 * Sparse and Redundant Representations: From Theory to Applications in Signal and Image Processing, by M. Elad
 * Statistical Learning with Sparsity: The Lasso and Generalizations by T. Hastie et al.
+* A Mathematical Introduction to Compressive Sensing, by S. Foucart and H. Rauhut
 * Recent papers
 
