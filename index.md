@@ -14,7 +14,7 @@ This could will cover the fundamental ideas behind sparse signal and image model
 1. Course introduction. Intro to underdetermined linear systems of equations, sparsity and math warm-up.
 2. Uniqueness and Stability.
 3. Greedy algorithms and their analysis.
-4. Basis Pursuit - success guarantees and stability. Analysis and convergence of ISTA.
+4. Basis Pursuit - success guarantees and stability. Intro to Compressed Sensing. Analysis and convergence of ISTA.
 5. Intro to statistical learning, sparse linear and logistic regression, variable selection.
 6. Lasso generalizations, elastic net, matrix and spectral sparsity and applications.
 7. Dictionary Learning - Early motivations, MOD, K-SVD, Online Dictionarly Learning, Double Sparsity.
