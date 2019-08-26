@@ -13,7 +13,7 @@ The goal of this project is to expose students to the vanguard of sparse represe
 8. You are to present your project to the class during the last two weeks of classes (10-15 min presentation).
 
 #### Grading Criteria:
-The project will be graded according to:
+The project will be evaluated on:
 * Effort
 * Demonstration of subject understanding
 * Originality (and elegance of the solution, if appropriate)
