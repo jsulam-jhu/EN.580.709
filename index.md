@@ -30,9 +30,9 @@ This course will cover the fundamental ideas behind sparse signal and image mode
 
 The course will be organized in weekly lectures, and students are expected to actively participate in them. Grading will be assigned according to:
 
-a) **Final exam** (30%), intended to serve as a fast check for contents presented in class.
+a) **Final exam** (40%), intended to serve as a fast check for contents presented in class.
 
-b) **Course Project** (70%), to be carried out preferably in pairs, based on recently published papers. A list of candidate papers to choose from is given <a href="https://github.com/jsulam-jhu/EN.580.709/blob/master/project_papers.md">here</a>, (others can be accommodated upon request). Evaluation of the project will be based on a final report summarizing some of these papers, their contributions, and your own findings (open questions, simulation results, extensions, etc), as well as a short presentation to the class. Detailed project guidelines and evaluation criteria can be found <a href="https://github.com/jsulam-jhu/EN.580.709/blob/master/Project%20Instructions.md">here</a>.
+b) **Course Project** (60%), to be carried out preferably in pairs, based on recently published papers. A list of candidate papers to choose from is given <a href="https://github.com/jsulam-jhu/EN.580.709/blob/master/project_papers.md">here</a>, (others can be accommodated upon request). Evaluation of the project will be based on a final report summarizing some of these papers, their contributions, and your own findings (open questions, simulation results, extensions, etc), as well as a short presentation to the class. Detailed project guidelines and evaluation criteria can be found <a href="https://github.com/jsulam-jhu/EN.580.709/blob/master/Project%20Instructions.md">here</a>.
 
 
 ### References
