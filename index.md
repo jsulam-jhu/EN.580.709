@@ -44,4 +44,4 @@ b) **Course Project** (60%), to be carried out preferably in pairs, based on rec
 
 
 #### Ethics, personall well-being and classroom climate
-Please, have a look at the <a href="https://github.com/jsulam-jhu/EN.580.709/blob/master/WSESyllabus.pdf">detailed course description</a> for information on these topics.
+Please, have a look at the <a href="https://github.com/jsulam-jhu/EN.580.709/blob/master/WSESyllabus.pdf">detailed course description</a> for information on these important topics.
