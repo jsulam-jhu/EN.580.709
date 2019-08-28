@@ -42,3 +42,6 @@ b) **Course Project** (60%), to be carried out preferably in pairs, based on rec
 * A Mathematical Introduction to Compressive Sensing, by S. Foucart and H. Rauhut
 * Recent papers
 
+
+#### Ethics, personall well-being and classroom climate
+Please, have a look at the <a href="https://github.com/jsulam-jhu/EN.580.709/blob/master/WSESyllabus.pdf">detailed course description</a> for information on these topics.
