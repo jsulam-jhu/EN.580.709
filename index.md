@@ -8,6 +8,10 @@ Credits:  2
 Sparse and redundant representations constitutes a fascinating area of research in signal and image processing. This is a relatively young field that has been taking form for the last 15 years or so, with contributions from harmonic analysis, numerical algorithms and machine learning, and has been vastly applied to myriad of problems in computer vision and other domains. This course will focus on sparsity as a model for general data, generalizing many different other constructions or priors. This idea - that signals can be represented with just *a few* coefficients - leads to a long series of beautiful (and surprisingly, solvable) theoretical and numerical problems, and many applications that can benefit directly from the new developed theory. In this course we will survey this field, starting with the theoretical foundations, and systematically covering the knowledge that has been gathered in the past years. This course will touch on theory, numerical algorithms, and applications in image processing and machine learning. Recommended course background: Linear Algebra, Signals and Systems, Numerical Analysis.
 
 
+### Class Material and references
+* <a href>https://github.com/jsulam-jhu/EN.580.709/tree/master/Class%201>Class 1</a>
+
+
 ### Content and Syllabus
 This course will cover the fundamental ideas behind sparse signal and image modeling, as well as key ideas of sparse priors in machine learning, and their applications. The (tentative) roadmap is the following:
 
@@ -33,7 +37,6 @@ The course will be organized in weekly lectures, and students are expected to ac
 a) **Final exam** (40%), intended to serve as a fast check for contents presented in class.
 
 b) **Course Project** (60%), to be carried out preferably in pairs, based on recently published papers. A list of candidate papers to choose from is given <a href="https://github.com/jsulam-jhu/EN.580.709/blob/master/project_papers.md">here</a>, (others can be accommodated upon request). Evaluation of the project will be based on a final report summarizing some of these papers, their contributions, and your own findings (open questions, simulation results, extensions, etc), as well as a short presentation to the class. Detailed project guidelines and evaluation criteria can be found <a href="https://github.com/jsulam-jhu/EN.580.709/blob/master/Project%20Instructions.md">here</a>.
-
 
 ### References
 
