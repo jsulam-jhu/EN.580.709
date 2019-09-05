@@ -24,7 +24,7 @@
 * Arora, Sanjeev, et al. "A compressed sensing view of unsupervised text embeddings, bag-of-n-grams, and LSTMs." (2018).
 * Moreau, Thomas, and Joan Bruna. "Understanding trainable sparse coding via matrix factorization." arXiv preprint arXiv:1609.00285 (2016).
 * Chen, Yubei, Dylan Paiton, and Bruno Olshausen. "The sparse manifold transform." Advances in Neural Information Processing Systems. 2018.
-* Arora, Sanjeev, and Andrej Risteski. "Provable benefits of representation learning." arXiv preprint arXiv:1706.04601 (2017).
+* ~~Arora, Sanjeev, and Andrej Risteski. "Provable benefits of representation learning." arXiv preprint arXiv:1706.04601 (2017).~~
 * Arora, Sanjeev, et al. "Computing a Nonnegative Matrix Factorization---Provably." SIAM Journal on Computing 45.4 (2016): 1582-1611.
 * Candes, Emmanuel, et al. "Panning for gold:‘model‐X’knockoffs for high dimensional controlled variable selection." Journal of the Royal Statistical Society: Series B (Statistical Methodology) 80.3 (2018): 551-577.
 * Candes, E. J., Eldar, Y. C., Strohmer, T., & Voroninski, V. (2015). Phase retrieval via matrix completion. SIAM review, 57(2), 225-251.
