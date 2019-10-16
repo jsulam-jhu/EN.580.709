@@ -1,6 +1,6 @@
 #### Topics covered:
 
-* Generalized Lasso models: Elastic Net and Group Lasso [1]
+* Generalized Lasso models: Elastic Net and Group Lasso [1] *Slides from this part can be found in Class 6*
 * Low Rank Matrix Approximation [2,3]
 * Matrix completion and nuclear norm relaxation [2,3]
 * Algorithms: proximal gradient descent [2,3]
