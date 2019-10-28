@@ -16,6 +16,7 @@ Sparse and redundant representations constitutes a fascinating area of research 
 * <a href=" https://github.com/jsulam-jhu/EN.580.709/blob/master/Class%205/Topics.md">Class 5</a>
 * <a href="https://github.com/jsulam-jhu/EN.580.709/tree/master/Class%206">Class 6</a>
 * <a href="https://github.com/jsulam-jhu/EN.580.709/blob/master/Class%207/Topics.md">Class 7</a>
+* <a href="https://github.com/jsulam-jhu/EN.580.709/blob/master/Class%208/Topics.md">Class 8</a>
 
 ### Content and Syllabus
 This course will cover the fundamental ideas behind sparse signal and image modeling, as well as key ideas of sparse priors in machine learning, and their applications. The (tentative) roadmap is the following:
