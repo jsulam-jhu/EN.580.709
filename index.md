@@ -17,6 +17,7 @@ Sparse and redundant representations constitutes a fascinating area of research 
 * <a href="https://github.com/jsulam-jhu/EN.580.709/tree/master/Class%206">Class 6</a>
 * <a href="https://github.com/jsulam-jhu/EN.580.709/blob/master/Class%207/Topics.md">Class 7</a>
 * <a href="https://github.com/jsulam-jhu/EN.580.709/blob/master/Class%208/Topics.md">Class 8</a>
+* <a href="https://github.com/jsulam-jhu/EN.580.709/blob/master/Class%209/Topics.md">Class 9</a>
 
 Also, you can find the <a href="https://github.com/jsulam-jhu/EN.580.709/tree/master/ClassNotes">draft class notes here</a>.
 
