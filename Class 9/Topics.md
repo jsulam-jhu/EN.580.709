@@ -1,7 +1,7 @@
 #### Topics covered:
 
 * Dictionary Learning - General Framework of alternating minimization (MOD, K-SVD [1])
-* Convergence of Gradient Descent in strongly-convex and smooth case [2]
+* Convergence of Gradient Descent for strongly-convex and smooth convex functions [2]
 * Convergence of Dictionary Learning for simple sparse coding [2,3]
 
 **References**: 
